@@ -20,7 +20,7 @@ Built **Midas Core** — a transaction processing microservice for JPMorgan Chas
 - ✅ REST API Integration — connected to external Incentive API
 - ✅ REST API Controller — exposed /balance endpoint
 
----_____________________________________________________________________________________________________________
+---___________________________________________________________________________________________________________________________________________
 
 ## Tech Stack
 `Java 17` `Spring Boot` `Apache Kafka` `Spring Data JPA` `H2` `RestTemplate` `Maven`
