@@ -9,7 +9,7 @@
 ---
 
 ## About
-Built **Midas Core** — a transaction processing microservice for JPMorgan Chase's Software Engineering simulation on Forage.
+Built **Midas Core** — a transaction processing microservice for JPMorgan Chase's Software Engineering simulation.
 
 ---
 
